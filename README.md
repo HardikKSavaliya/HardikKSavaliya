@@ -3,11 +3,11 @@
 <br />
 ✨ Technologies ✨
 <br />
-✔ .Net Framework | node.js | .NET Core | Flutter
+✔ .Net Framework | node.js | .NET Core
 <br />
 ✨ Web Technologies ✨
 <br />
-✔ JavaScript | Angular | Typescript | jQuery | Vue Js | Razor
+✔ JavaScript | Angular | Typescript | jQuery
 <br />
 ✨ Blockchain Technologies ✨
 <br />
