@@ -1,5 +1,5 @@
 <br />
- Hi, I'm Hardik Savaliya, a Full Stack/Blockchain Developer :technologist:
+ Hi, I'm Hardik Savaliya, a Blockchain Application Developer :technologist:
 <br />
 ✨ Technologies ✨
 <br />
