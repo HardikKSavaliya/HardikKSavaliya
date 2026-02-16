@@ -108,11 +108,6 @@ Axum • SQLx • Leptos • JWT • Docker
 
 ---
 
-## 🔥 Quote I Follow
-> **“Speed is great. Correctness is better. Rust gives both.”**
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-k-savaliya)
